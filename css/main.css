@@ -11,14 +11,12 @@ header {
 
 header h1 {
 	color: white;
-	font-family: "Calluna Sans", sans-serif;
-	font-weight: 500;
+	font: normal 500 2.5em "Calluna Sans", sans-serif;
 	padding-top: 0.5em;
 }
 
 #content {
-	font-family: "Calluna Sans", sans-serif;
-	font-weight: 400;
+	font: normal 400 1em "Calluna Sans", sans-serif;
 	max-width: 480px;
 	margin: 0 auto;
 	padding: 100px 10%;
@@ -60,9 +58,6 @@ header h1 {
 	cursor: pointer;
 	margin-bottom: 10px;
 	color: #f182b3;
-}
-
-#names li.love {
 }
 
 #names li:after {
