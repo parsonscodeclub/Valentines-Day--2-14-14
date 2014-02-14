@@ -7,6 +7,10 @@ some of the demos we did on valentine's day.
 
 ###The Viewport Meta Tag
 
+###SVG
+
+###Pseudo-Elements
+
 #CSS
 
 ###Transitions

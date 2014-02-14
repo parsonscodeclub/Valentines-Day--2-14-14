@@ -1,0 +1,93 @@
+* {
+	margin: 0; padding: 0;
+}
+
+header {
+	padding: 120px 0;
+	text-align: center;
+	background-image: url(../hearts-bg.png);
+	background-attachment: fixed;
+}
+
+header h1 {
+	color: white;
+	font-family: "Calluna Sans", sans-serif;
+	font-weight: 500;
+	padding-top: 0.5em;
+}
+
+#content {
+	font-family: "Calluna Sans", sans-serif;
+	font-weight: 400;
+	max-width: 480px;
+	margin: 0 auto;
+	padding: 100px 10%;
+}
+
+#add-names {
+	font-size: 1.2em;
+	text-align: center;
+	padding: 20px 0;
+	margin-bottom: 50px;
+}
+
+#add-names label {
+	display: block;
+}
+
+#add-names input {
+	padding: 10px;
+	margin: 10px 0;
+	width: 80%;
+	border: 1px solid #ccc;
+}
+
+#add-names button {
+	padding: 11px 15px;
+	-webkit-appearance: none;
+	border: none;
+	background-color: #f182b3;
+	cursor: pointer;
+}
+
+#names {
+	font-size: 1.5em;
+	list-style-type: none;
+	-webkit-columns: 3;
+}
+
+#names li {
+	cursor: pointer;
+	margin-bottom: 10px;
+	color: #f182b3;
+}
+
+#names li.love {
+}
+
+#names li:after {
+	content: "❤";
+	padding-left: 8px;
+	font-size: 16px;
+	color: white;
+	-webkit-transition: color 0.3s, padding 0.3s;
+}
+
+#names li.love:after {
+	color: #f182b3;
+	padding-left: 20px;
+}
+
+footer {
+	background-color: #f182b3;
+	padding: 25px;
+	text-align: center;
+
+	font-family: "Calluna Sans", sans-serif;
+	font-weight: 400;
+	font-size: 1.2em;
+}
+
+footer a {
+	color: white;
+}
