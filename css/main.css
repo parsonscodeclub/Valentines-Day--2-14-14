@@ -12,7 +12,7 @@ header {
 header h1 {
 	color: white;
 	font: normal 500 2.5em "Calluna Sans", sans-serif;
-	padding-top: 0.5em;
+	padding: 0.5em 1em 0 1em;
 }
 
 #content {
@@ -71,4 +71,10 @@ header h1 {
 #names li.love:after {
 	color: #f182b3;
 	padding-left: 20px;
+}
+
+@media screen and (max-width: 420px) {
+	#names {
+		-webkit-columns: 2;
+	}
 }
