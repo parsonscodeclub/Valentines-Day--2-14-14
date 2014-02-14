@@ -20,6 +20,7 @@ the demo we did on valentine's day.
 ###SVG
 
 - [How to use SVG](css-tricks.com/using-svg/)
+- [Command line SVG Optimizer tool](https://github.com/svg/svgo)
 
 ###Pseudo-Elements
 
