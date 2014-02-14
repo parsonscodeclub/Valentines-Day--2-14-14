@@ -13,7 +13,12 @@ the demo we did on valentine's day.
 
 ###The Viewport Meta Tag
 
+- [Everything you ever wanted to know about Viewports and Media Queries](https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present#slide=id.i0)
+- [A Simple Guide to Responsive Design](http://www.adamkaplan.me/grid/)
+
 ###SVG
+
+- [How to use SVG](css-tricks.com/using-svg/)
 
 ###Pseudo-Elements
 
@@ -21,13 +26,16 @@ the demo we did on valentine's day.
 
 ###Max-Width
 
-###Background-Attachment
-
 ###CSS-Columns
+
+- [Columns on CSS Tricks](http://css-tricks.com/snippets/css/multiple-columns/)
+- [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_multi-column_layouts)
 
 ###Transitions
 
 #Javascript & jQuery
+
+[Check out the jQuery documentation](http://api.jquery.com/)
 
 ###Attaching event listeners
 
