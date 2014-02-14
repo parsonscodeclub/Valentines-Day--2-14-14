@@ -8,6 +8,7 @@ the demo we did on valentine's day.
 1. I'm using Sublime Text with [Emmet](http://emmet.io) so I'll be autocompleting *a lot*.
 2. I don't expect you to follow along or memorize anything, this is just supposed to be to let you know that these things exist / to get the hang of certain concepts.
 3. This README will serve as a repository for help and references so if you wish to actually implement these things on your own, you can!
+4. This was a live demo, so there's some stuff that I showed (like the use of the Developer Tools) that doesn't translate if you're reading this afterwards.
 
 #HTML
 
