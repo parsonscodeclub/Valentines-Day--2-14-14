@@ -1,7 +1,7 @@
 Valentines-Day--2-14-14
 =======================
 
-some of the demos we did on valentine's day.
+the demo we did on valentine's day.
 
 #HTML
 
@@ -13,6 +13,20 @@ some of the demos we did on valentine's day.
 
 #CSS
 
+###Max-Width
+
+###Background-Attachment
+
+###CSS-Columns
+
 ###Transitions
 
 #Javascript & jQuery
+
+###Attaching event listeners
+
+###Grabbing text
+
+###Creating new elements
+
+###Appending elements
