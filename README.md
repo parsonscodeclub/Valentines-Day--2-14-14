@@ -14,6 +14,8 @@ the demo we did on valentine's day.
 
 ###The Viewport Meta Tag
 
+*I didn't cover this but it's notable to look into anyway*
+
 - [Everything you ever wanted to know about Viewports and Media Queries](https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present#slide=id.i0)
 - [A Simple Guide to Responsive Design](http://www.adamkaplan.me/grid/)
 
@@ -34,6 +36,12 @@ the demo we did on valentine's day.
 - [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_multi-column_layouts)
 
 ###Transitions
+
+- [Transitions on MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions)
+
+###Keyframe Animation
+
+- [Syntax](http://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 
 #Javascript & jQuery
 
