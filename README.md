@@ -1,7 +1,7 @@
 Valentines-Day--2-14-14
 =======================
 
-the demo we did on valentine's day.
+the demo we did on valentine's day. See it working here: http://parsonscodeclub.github.io/Valentines-Day--2-14-14/
 
 #Intro
 
