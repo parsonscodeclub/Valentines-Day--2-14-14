@@ -54,3 +54,12 @@ the demo we did on valentine's day.
 ###Creating new elements
 
 ###Appending elements
+
+#Random other links
+
+Stuff we looked at on the side.
+
+- [dataveyes](http://dataveyes.com/)
+- [qubitzoid](http://www.chromeexperiments.com/detail/the-qubitzoid/?f=)
+- [Gradient Maps](http://blogs.adobe.com/webplatform/2013/08/06/gradientmaps-js-gradient-maps-for-html/)
+- [Raphael.js](http://raphaeljs.com/)
